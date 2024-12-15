@@ -1,0 +1,7 @@
+#Libraries and Frameworks
+
+Pandas: For data manipulation and cleaning.
+Matplotlib & Seaborn: For generating visualizations.
+TextBlob: For sentiment analysis.
+NLTK: For stopword removal.
+WordCloud: For generating word clouds.
